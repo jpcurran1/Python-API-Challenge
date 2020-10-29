@@ -1,2 +1,8 @@
 # Python-API-Challenge
-Python API Homework
+# Introduction
+In this homework we explored using python APIs to analyze weather data in a random list of cities and potential vaction spots for cities with ideal weather conditions. I used open weather map api for the weatherpy part of the assingment and google maps for the vactionpy section of the assignment. 
+# Analysis 
+In the weatherpy section of the assingment, we looked at varibles including temperature, humidity, windiness, and cloudiness for different cities as well as included their lat and lng cordinates. We then plotted each of these weather conditions against cordinates to see if there was any corelation between them and location. Based on the data, it appeared that only temperature was severly impacted by cordinates and as expected the closer you got the equator, the hotter the temperature is. We then split the cordinates into the northern and souther hemispheres and ran a similar analysis. These charts can be found in the repository. 
+For vactionpy, we took the existing data frame from the first ection of the homework, and trimmed it down to 'ideal' weather conditions--I made my weather pretty hot with hardly any clouds or wind. Next we used google to get hotels within 5000 meters of those cities calling these 'potential vacation spots'
+# Reactions
+This was an interesting assingment where we got to keep building on our coding skills. I really enjoyed working with maps as those created some fun visials and the activities were aplicable to a real life situation I would find helpful--maybe I will use this assingment looking for my next vaction spot! 
